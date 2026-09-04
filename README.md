@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Nehemiah Andrew (Founder-- NEHEMIAH TECHNOLOGIES)
 
-### 🚀 Full-Stack Software Engineer | Mobile Developer | Cybersecurity Enthusiast
+### 🚀 Full-Stack Software Engineer | Mobile Developer | Cybersecurity Graduate
 
 I’m a **Cybersecurity Analyst and software engineer** passionate about building secure, scalable, and meaningful digital products.
 
